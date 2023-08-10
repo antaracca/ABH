@@ -1,0 +1,64 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;PROFILE;; ;
+FN: PROFILE
+ORG:
+COMPANY:
+TITLE:
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:
+TEL;CELL;TYPE=Mobile,VOICE:+966 556 246 889
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:Binhussain.abrar@gmail.com
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100103781
+URL;TYPE=Website:
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+
+
+URL;TYPE=Linkedin:https://www.linkedin.com/in/abrar-binhussain
+
+PHOTO;ENCODING=b:{
+  "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/createAvatar/PROFILE/</pre>\n</body>\n</html>\n",
+  "status": 404,
+  "statusText": "",
+  "headers": {
+    "content-length": "164",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "config": {
+    "url": "https://pay4zip.com/api/createAvatar/PROFILE/",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "withCredentials": true,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1
+  },
+  "request": {}
+}
+NOTE;CHARSET=UTF-8:Abrar BinHussain is not only an experienced professional in audit and assurance, operational excellence, and organizational transformation, but she is also a qualified Certified Public Accountant (CPA) and a member of Saudi Organization for Chartered and Professional Accountants (SOCPA).Abrar's expertise is grounded in a comprehensive understanding of accounting principles, financial reporting, and compliance. Her commitment to maintaining the highest standards of professional conduct, ethics, and ongoing education is a testament to her dedication to the field of accounting.Abrar Bin Hussain is an accomplished professional with a distinguished career spanning over 12 years, characterized by a trajectory of significant achievements and contributions to the fields of audit and assurance, operational excellence, and transformation. Her journey commenced at Ernst & Young Riyadh, where she honed her skills in audit and assurance, setting the foundation for a successful career marked by continuous growth and innovation.During her tenure as Head of Operations at Sanabel Investment, Abrar showcased exceptional leadership capabilities, demonstrating a deep understanding of operational intricacies and a keen eye for process optimization. Her strategic insights not only streamlined operational workflows but also contributed to the overall growth and success of the organization.Abrar's career highlights reached new heights as she transitioned to ZATCA in her role as Director. Her profound expertise in assurance and operations played a pivotal role in steering ZATCA towards a digital and efficient structure. Abrar's skillset is as extensive as it is impressive. She possesses a keen analytical mind, a comprehensive understanding of audit methodologies, and a strategic mindset that enables her to identify opportunities for improvement in complex business environments. Her ability to foster collaboration, communicate effectively, and inspire teams is a testament to her leadership capabilities.
+
+END:VCARD
